@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Github Jobs</string>
+    <string name="base_url">https://jobs.github.com/</string>
+</resources>
